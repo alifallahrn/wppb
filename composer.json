@@ -1,0 +1,12 @@
+{
+  "autoload": {
+    "psr-4": {
+      "AFRN\\WPPB\\": [
+        "src/"
+      ]
+    }
+  },
+  "require": {
+    "php": ">=5.6"
+  }
+}
